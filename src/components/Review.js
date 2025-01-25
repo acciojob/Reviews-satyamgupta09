@@ -73,7 +73,7 @@ export default function Review() {
         Next
       </button>
       <button className="random-btn" onClick={handleRandom}>
-        suprise me
+        surprise me
       </button>
     </div>
   );
