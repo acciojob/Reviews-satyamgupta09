@@ -1,5 +1,5 @@
 import React from "react";
-import Review from "./Review";
+import Review from "./components/Review";
 import "./../styles/App.css";
 
 export default function App() {
